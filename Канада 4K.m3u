@@ -1,0 +1,118 @@
+#EXTM3U url-tvg=\\\"https://klimedia.space/epg.xml.gz\\\"
+#EXTINF:0 tvg-logo=\\\"http://klimedia.space/logo/kli4ka.png\\\" catchup=\\\"flussonic\\\" catchup-days=\\\"1\\\",KLI UHD 4K
+#EXTGRP:KLI Media
+http://cdn.klimedia.online/lb/KLIUHD4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/kino-ultra-hd.png\\\",Кино UHD
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/KINO_UHD/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/serial-ultrahd.png\\\",Сериал UHD
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/SERIAL_UHD/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://uz-tv.net/storage/images/iptv/channels/2082.jpg\\\",UZ-4K Kino UHD
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/DCL2ZKpYyW/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://uz-tv.net/storage/images/iptv/channels/1290.jpg\\\",UZ-4k Klip UHD
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/iVU9ZfWAjl/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,Русский Экстрим UHD 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/russkyexstrimuhd/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/quadro4k.png\\\",Quadro 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/Quadro_4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/ultra-hd-cinema.png\\\",Cinema ultra hd
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/Cinemahd/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://uz-tv.net/storage/images/iptv/channels/3074.jpg\\\",UZ-Союз-Фильмы 4k
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/lpKMTU3Hfm/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://uz-tv.net/storage/images/iptv/channels/2759.jpg\\\",UZ-Nature 4K HDR
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/kv3Oh9Ldab/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,Home 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/homor4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,TravelXP 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/TRAVEL_XP_4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"http://epg.it999.ru/img2/2801.png\\\",Love Nature 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/LoveNature4/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/myzen-4k.png\\\",MyZen TV 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/Myzen/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,Глазами туриста 4K
+#EXTGRP:4k - ULTRA HD
+http://cdn.klimedia.online/lb/GLAZAMITURISTA4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,Extasy 4K
+#EXTGRP:Для взрослых
+http://cdn.klimedia.online/lb/Extasy4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 catchup=\\\"flussonic\\\" catchup-days=\\\"1\\\",Eleven Sports 1 4K
+#EXTGRP:Спорт
+http://cdn.klimedia.online/lb/Id3/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-uzasy.png\\\",Clarity4K Ужасы
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/4khorrors/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"http://klimedia.space/logo/image (44).png\\\",Clarity4K World Music
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/music_1_4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"http://klimedia.space/logo/image (17).png\\\",Clarity4K deep house
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/concert_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-multlandia.png\\\",Clarity4K Мультляндия
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/childrens_cartoons_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-fantastik.png\\\",Clarity4K Фантастика
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/fantastic4/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-prikluchenia.png\\\",Clarity4K Приключения
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/adventures_4K/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-komedia.png\\\",Clarity4K Комедия
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/comedy4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-komediasssr2.png\\\",Clarity4K Комедия СССР 2
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/comedy_ssr_2_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-komediasssr1.png\\\",Clarity4K Комедия СССР 1
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/comedy_ssr_1_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-semejny.png\\\",Clarity4K Семейный
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/family_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-puteshestvie.png\\\",Clarity4K Путешествие
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/travel_dok_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"http://klimedia.space/logo/image (36).png\\\",Clarity4K Города
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/relax_fireplace_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-muzikl.png\\\",Clarity4K Мюзикл
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/retro_hits_channel_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-kosmomir.png\\\",Clarity4K Космомир
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/cosmosmir_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-istoriivrema.png\\\",Clarity4K Ужасы VHS
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/stories_in_time_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-avtomaster.png\\\",Clarity4K АвтоМастер
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/AutoMaster_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"http://klimedia.space/logo/image (9).png\\\",Clarity4K Russian music
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/russian_music_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,Clarity4K Kинодети CССР
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/kinoids_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-waltdisney.png\\\",Clarity4K Walt Disney
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/Walt_Disney_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"https://epgx.site/p/clarity4k-hboseries.png\\\",Clarity4K HBO series
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/NBO_series_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0 tvg-logo=\\\"http://klimedia.space/logo/image (3).png\\\",Clarity4K France music
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/Francemusic_4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
+#EXTINF:0,Prokop TV Cinema 4K
+#EXTGRP:Кинозалы
+http://cdn.klimedia.online/lb/cinema4k/index.m3u8?token=klimedia.space:ZGxramRhMDk4ZmFmOmRsa2pkYTA5OGZhZg==
